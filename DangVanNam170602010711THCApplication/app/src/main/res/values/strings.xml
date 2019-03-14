@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DangVanNam-1706020107-11THCApplication</string>
+    <string name="Main_UserName" />
+    <string name="Main_Pass" />
+    <string name="Main_Login" />
+    <string name="app_UserName">UserName</string>
+    <string name="app_Pass">Pass</string>
+    <string name="app_Pas">PassWord</string>
+    <string name="app_Login">Login</string>
+    <string name="Next">Thong Tin Sinh Vien</string>
+    <string name="Adding">Nam</string>
+    <string name="Cancel">cancel</string>
+    <string name="Save">save</string>
+    <string name="Main_Hovaten">Hovaten</string>
+    <string name="nghanh">Nghanh</string>
+    <string name="MSV">ma SV</string>
+    <string name="ten">dang van nam</string>
+    <string name="nganh">CNTT</string>
+    <string name="contact_Name">hovaten</string>
+    <string name="contact_ad">MSV</string>
+    <string name="contact_ASD">nghanh</string>
+</resources>
